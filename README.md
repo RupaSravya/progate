@@ -31,7 +31,7 @@ a {
 
 .top-wrapper h1 {
   opacity: 0.7;
-  font-size: 45px;
+  font-size: 40px;
   letter-spacing: 5px;
   margin-bottom: 10px;
 }
